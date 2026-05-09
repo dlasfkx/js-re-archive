@@ -14,6 +14,10 @@ A web-based tool for analyzing and deobfuscating JavaScript code. Useful for unp
 https://deobfuscate.io/  
 Automatically simplifies obfuscated JavaScript using common static analysis techniques like string decoding and control-flow cleanup.
 
+### 🔗 Relative Deobfuscator
+https://deobfuscate.relative.im/  
+Online JavaScript deobfuscation tool focused on restoring readability of heavily obfuscated scripts and simplifying common protection patterns.
+
 ---
 
 ## 🛡️ Obfuscation & Protection
