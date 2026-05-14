@@ -18,6 +18,10 @@ Automatically simplifies obfuscated JavaScript using common static analysis tech
 https://deobfuscate.relative.im/  
 Online JavaScript deobfuscation tool focused on restoring readability of heavily obfuscated scripts and simplifying common protection patterns.
 
+### 🔗 JS Nice
+http://www.jsnice.org/  
+Statistical deobfuscation engine that restores meaningful variable names and infers types from minified or obfuscated code using machine learning over a large JS corpus.
+
 ---
 
 ## 🛡️ Obfuscation & Protection
