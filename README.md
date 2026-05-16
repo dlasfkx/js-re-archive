@@ -76,6 +76,14 @@ Real-time JS transpilation tool used to study AST-based transformations and Babe
 
 ---
 
+## 🔬 Dynamic & Hybrid Analysis
+
+### 🔗 JStillery
+https://mindedsecurity.github.io/jstillery/  
+Advanced JavaScript deobfuscation via partial evaluation. Combines AST analysis with selective code execution to resolve complex string concatenation, unpack packed code, and simplify control flow. Includes CLI, REST API, and web UI.
+
+---
+
 ## 💡 Notes
 
 This archive is useful for:
