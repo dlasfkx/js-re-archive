@@ -74,6 +74,10 @@ Interactive tool for visualizing Abstract Syntax Trees (AST) from JavaScript cod
 https://babeljs.io/repl  
 Real-time JS transpilation tool used to study AST-based transformations and Babel behavior.
 
+### 🔗 Source Map Explorer
+https://github.com/danvk/source-map-explorer  
+Visualizes JavaScript bundles using source maps to show which files and dependencies contribute to final bundle size. Useful for analyzing webpack/Vite builds, inspecting bundled modules, understanding dependency structure, and reverse engineering production frontend bundles.
+
 ---
 
 ## 🔬 Dynamic & Hybrid Analysis
