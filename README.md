@@ -22,6 +22,10 @@ Online JavaScript deobfuscation tool focused on restoring readability of heavily
 http://www.jsnice.org/  
 Statistical deobfuscation engine that restores meaningful variable names and infers types from minified or obfuscated code using machine learning over a large JS corpus.
 
+### 🔗 de4js
+https://lelinhtinh.github.io/de4js/  
+Online JavaScript deobfuscator and unpacker supporting multiple common obfuscation patterns including Eval, Packer, Obfuscator.io, AAEncode, JJEncode, JSFuck, and more. Works entirely in the browser without server-side processing.
+
 ---
 
 ## 🛡️ Obfuscation & Protection
